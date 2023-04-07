@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "mayash5684.com",
+  "Id": "5cc74e8c-27df-4fb3-87d9-cf46a50c9126"
+}
